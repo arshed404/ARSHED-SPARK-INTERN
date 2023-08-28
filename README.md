@@ -5,3 +5,6 @@
 21/08/20 : Proper coloring and understanding of coloring in logo 
 22/08/23 : Designing the replica of our Gmail home page. 
 26/08/23 : Introduction to figma application and designing a model in that . 
+28/08/23 : Using pluggings tool in figma and how to present a real time project!. 
+
+
