@@ -7,6 +7,23 @@
 26/08/23 : Introduction to figma application and designing a model in that . 
 28/08/23 : Using pluggings tool in figma and how to present a real time project!. 
 29/08/23 : Sketching our own app. 
+31/08/23 : Making a prototype and using navigation 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
