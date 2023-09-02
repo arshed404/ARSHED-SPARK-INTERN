@@ -8,7 +8,7 @@
 28/08/23 : Using pluggings tool in figma and how to present a real time project!. 
 29/08/23 : Sketching our own app. 
 31/08/23 : Making a prototype and using navigation 
-02/09/23 : Check alignment and coorection in created prototype 
+02/09/23 : Check alignment and correction in created prototype 
 
 
 
