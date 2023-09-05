@@ -9,7 +9,8 @@
 29/08/23 : Sketching our own app. 
 31/08/23 : Making a prototype and using navigation 
 02/09/23 : Check alignment and correction in created prototype 
-
+04/09/23 : How to use different options in protoype
+05/09/23 : Sketching our own app completely.
 
 
 
