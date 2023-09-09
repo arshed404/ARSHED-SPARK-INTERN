@@ -12,8 +12,8 @@
 04/09/23 : How to use different options in protoype
 05/09/23 : Sketching our own app completely.
 07/09/23 : Creating logo 
-08/09/23 : Creating an application on own 
-
+08/09/23 : Creating sketch for an application on own 
+09/09/23 : Create an application on figma 
 
 
 
