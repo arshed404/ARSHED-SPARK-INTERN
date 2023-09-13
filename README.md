@@ -14,7 +14,8 @@
 07/09/23 : Creating logo. 
 08/09/23 : Creating sketch for an application on own. 
 09/09/23 : Create an application on figma.
-11/09/23 : Sketching a clown of GMAIL.
+11/09/23 : Sketching a replica of GMAIL.
+13/09/23 : Implementation of GMAIL replica . 
 
 
 
