@@ -16,6 +16,7 @@
 09/09/23 : Create an application on figma.
 11/09/23 : Sketching a replica of GMAIL.
 13/09/23 : Implementation of GMAIL replica . 
+14/09/23 : Implementation of GMAIL replica.
 
 
 
